@@ -1,0 +1,9 @@
+Scenario,Resource,Type,Monthly Cost ($)
+Before Optimization,EC2 total,,17.70
+Before Optimization,EBS total,,1.92
+Before Optimization,TOTAL,,18.92
+After Optimization,EC2 (downsized + schedule),,5.14
+After Optimization,EBS (unused deleted),,1.28
+After Optimization,TOTAL,,6.42
+Savings,,,-12.50
+Savings Percentage,,,-66%
